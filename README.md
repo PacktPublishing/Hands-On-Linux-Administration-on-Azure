@@ -4,7 +4,7 @@
 
 This is the code repository for [Hands-On Linux Administration on Azure](https://www.packtpub.com/virtualization-and-cloud/hands-linux-administration-azure?utm_source=github&utm_medium=repository&utm_campaign=9781789130966), published by Packt.
 
-**Learn to efficiently run Linux-based workloads in Azure **
+**Learn to efficiently run Linux-based workloads in Azure**
 
 ## What is this book about?
 Azure's market share has increased massively and enterprises are adopting it rapidly. Linux is a widely-used operating system and has proven to be one of the most popular workloads on Azure. It has become crucial for Linux administrators and Microsoft professionals to be well versed with the concepts of managing Linux workloads in an Azure environment.
